@@ -1,0 +1,6 @@
+@ManPower_HostAddress = http://localhost:5244
+
+GET {{ManPower_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
