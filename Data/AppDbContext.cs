@@ -15,7 +15,7 @@ namespace ManPower.Data
         public DbSet<Herramientas> Herramientas { get; set; }
         public DbSet<Celulares> Celulares { get; set; }
         public DbSet<Laptops> Laptops { get; set; }
-
+        public DbSet<Asignaciones> Asignaciones { get; set; }
 
 
     }
