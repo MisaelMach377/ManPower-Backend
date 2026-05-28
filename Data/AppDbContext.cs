@@ -14,6 +14,8 @@ namespace ManPower.Data
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Herramientas> Herramientas { get; set; }
         public DbSet<Celulares> Celulares { get; set; }
+        public DbSet<Laptops> Laptops { get; set; }
+
 
 
     }
